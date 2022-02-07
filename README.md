@@ -4,4 +4,4 @@
 
 ![error!](https://github.com/myigituzun/TimerScreenLock/blob/main/screenshots/ss1.jpeg?raw=true) 
 
-# [my website](http://yigituzun.com.tr/)
+# [my website](https://myigituzun.com/)
